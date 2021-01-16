@@ -13,8 +13,11 @@
 
 ## Increased Limits Model
 ### Occurance Limit = Claim Limit ex 500/500 or 500CSL
+#### ILF = e^(1-e^(-L/S))-1
 ### Occurance Limit = 2xClaim Limit ex 250/500
+#### ILF = (e^(1-e^(-2L/S))-1) - (e^(-L/S)-e^(-2L/S))*(e^(e^(-L/S)-e^(-2L/S)))
 ### Occurance Limit = 3xClaim Limit ex 100/300
+#### ILF = (e^(1-e^(-3L/S))-1) - (e^(-L/S)-e^(-3L/S))*(e^(e^(-L/S)-e^(-2L/S))) + 1/2((e^(-2L/S))^2)*(e^(e^(-L/S)-e^(-2L/S)))
 
 ## Homeowners Catastrophe Model (aggregate)
 ### Mean of aggregate distribution = mean(f)*mean(s)
@@ -28,5 +31,4 @@
 #### E(S^2) = Second Moment of the Severity Distribution about the origin.
 #### n = number of events r = number of successes.
 
-
-## 
+##
