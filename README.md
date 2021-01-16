@@ -1,14 +1,14 @@
 # Career-Accomplishment-Summary
 
 ## Loss Development Model - Damped Harmonic Oscilator
-### Over Damped: Cummulative Development Factor = 1-(C)e(-at)-(1-C)e(-bt)
-### Under Damped: Cummulative Development Factor =  1-(C)sin(at)e(-bt)-cos(at)e(-bt)
-### Critically Damped: Cummulative Development Factor =  1-(C)te(-at)-e(-at)
+### Over Damped: Cummulative Development Factor = 1-(C)e^(-at)-(1-C)e^(-bt)
+### Under Damped: Cummulative Development Factor =  1-(C)sin(at)e^(-bt)-cos(at)e^(-bt)
+### Critically Damped: Cummulative Development Factor =  1-(C)te^(-at)-e^(-at)
 
-## Amount of insurance model
+## Amount of insurance model factors
 ### Factor(L) = (e(1-e(-L/S))-1)/(e(1-e(-L(b)/S))-1)
 
-## Deductibles by amount of insurance 
+## Deductibles by amount of insurance factors
 ### Factor(L) = (e(1-e(-L/S))-e(1-e(-D/S)))/(e(1-e(-L(b)/S))-e(1-e(-D(b)/S)))
 
 ## Increased Limits Model
@@ -18,5 +18,5 @@
 
 ## Homeowners Catastrophe Model (aggregate)
 ### Mean of aggregate distribution = mean(f)*mean(s)
-### Variance of aggregate distribution = \sigma 
+### Variance of aggregate distribution = \sum_{n=1}^{\infty} (nE(S^2))+n(n-1)E(S)^2-2nE(S)E(AggMean)+E(AggMean)^2)((\binom{r+n-1}{n})p^n(1-p)^r)    Where E(S) = Mean of Severity distribution  E(S^2) = Second Moment of the Severity Distribution about the origin    n = number of events    r = number of successes     E(AggMean) = is short hand for the aggregate mean rp/(1-p)(\alphaAOI)(\Gamma(1+1/d))
 ## 
