@@ -12,10 +12,11 @@
 ### Factor(L) = (e(1-e(-L/S))-e(1-e(-D/S)))/(e(1-e(-L(b)/S))-e(1-e(-D(b)/S)))
 
 ## Increased Limits Model
-### Occurance Limit = Claim Limit 500/500 or 500CSL
+### Occurance Limit = Claim Limit ex 500/500 or 500CSL
 ### Occurance Limit = 2xClaim Limit ex 250/500
 ### Occurance Limit = 3xClaim Limit ex 100/300
 
 ## Homeowners Catastrophe Model (aggregate)
-
+### Mean of aggregate distribution = mean(f)*mean(s)
+### Variance of aggregate distribution = \sigma 
 ## 
