@@ -18,8 +18,10 @@
 
 ## Homeowners Catastrophe Model (aggregate)
 ### Mean of aggregate distribution = mean(f)*mean(s)
-#### E(AggMean) = is short hand for the aggregate mean $$Mean(AggDist) = \frac{rp}{1-p}(\alpha AOI)(\Gamma(1+\frac{1}{d})).$$
-
+#### $$mean(f)*mean(s) = \frac{rp}{1-p}(\alpha AOI)(\Gamma(1+\frac{1}{d})).$$
+#### Assume: 
+#### The frequency follows a negative binomial distribution.
+#### The severity follows a weibull distribution - behaves like a fractal. 
 ### Variance of aggregate distribution $$Var(AggDist)= \sum_{n=1}^{\infty} (nE(S^2))+n(n-1)E(S)^2-2nE(S)(mean(f)*mean(s))+(mean(f)*mean(s))^2)\binom{r+n-1}{n}p^n(1-p)^r.$$ 
 #### Where:  
 #### E(S) = Mean of Severity distribution.
