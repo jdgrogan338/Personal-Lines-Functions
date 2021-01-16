@@ -17,14 +17,12 @@
 ### Occurance Limit = 3xClaim Limit ex 100/300
 
 ## Homeowners Catastrophe Model (aggregate)
-Mean of aggregate distribution = mean(f)*mean(s)
-Variance of aggregate distribution $$Var(AggDist)= \sum_{n=1}^{\infty} (nE(S^2))+n(n-1)E(S)^2-2nE(S)E(AggMean)+E(AggMean)^2)((\binom{r+n-1}{n})p^n(1-p)^r).$$ 
-Where:  
-E(S) = Mean of Severity distribution.
+### Mean of aggregate distribution = mean(f)*mean(s)
 
-E(S^2) = Second Moment of the Severity Distribution about the origin.
-
-n = number of events r = number of successes.
-
-E(AggMean) = is short hand for the aggregate mean $$Mean(AggDist) = \frac{rp}{1-p}(\alpha AOI)(\Gamma(1+\frac{1}{d})).$$
+### Variance of aggregate distribution $$Var(AggDist)= \sum_{n=1}^{\infty} (nE(S^2))+n(n-1)E(S)^2-2nE(S)E(AggMean)+E(AggMean)^2)\binom{r+n-1}{n}p^n(1-p)^r.$$ 
+### Where:  
+### E(S) = Mean of Severity distribution.
+### E(S^2) = Second Moment of the Severity Distribution about the origin.
+### n = number of events r = number of successes.
+### E(AggMean) = is short hand for the aggregate mean $$Mean(AggDist) = \frac{rp}{1-p}(\alpha AOI)(\Gamma(1+\frac{1}{d})).$$
 ## 
