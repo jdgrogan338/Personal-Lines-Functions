@@ -17,7 +17,7 @@
 ### Occurance Limit = 2xClaim Limit ex 250/500
 #### ILF = (e^(1-e^(-2L/S))-1) - (e^(-L/S)-e^(-2L/S))*(e^(e^(-L/S)-e^(-2L/S)))
 ### Occurance Limit = 3xClaim Limit ex 100/300
-#### ILF = (e^(1-e^(-3L/S))-1) - (e^(-L/S)-e^(-3L/S))*(e^(e^(-L/S)-e^(-2L/S))) + 1/2((e^(-2L/S))^2)*(e^(e^(-L/S)-e^(-2L/S)))
+#### ILF = (e^(1-e^(-3L/S))-1) - (e^(-L/S)-e^(-3L/S))*(e^(e^(-L/S)-e^(-3L/S))) + 1/2((e^(-L/S)-e^(-2L/S))^2)*(e^(e^(-L/S)-e^(-2L/S)))
 
 ## Homeowners Catastrophe Model (aggregate)
 ### Mean of aggregate distribution = mean(f)*mean(s)
