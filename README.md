@@ -9,7 +9,7 @@
 ### Factor(L) = (e(1-e(-L/S))-1)/(e(1-e(-L(b)/S))-1)
 
 ## Deductibles by amount of insurance factors
-### Factor(L) = (e(1-e(-L/S))-e(1-e(-D/S)))/(e(1-e(-L(b)/S))-e(1-e(-D(b)/S)))
+### Factor(D|L) = ((1-(e(1-e(-D/S))-1)/(e(1-e(-L/S))-1))/(1-(e(1-e(-D(b)/S))-1)/(e(1-e(-L(b)/S))-1)))
 
 ## Increased Limits Model
 ### Occurance Limit = Claim Limit ex 500/500 or 500CSL
