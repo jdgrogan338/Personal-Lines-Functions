@@ -31,4 +31,7 @@
 #### E(S^2) = Second Moment of the Severity Distribution about the origin.
 #### n = number of events r = number of successes.
 
-##
+## Price implementation model
+### Many times we can only move toward the proposed from current due to disruption.
+### The following optimizes it and assumes that the rates will be in effect of a year.  
+### Filed Factor = (PC)/(C+(P-C)e^(-\alpha))
