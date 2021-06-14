@@ -6,7 +6,7 @@
 ### Over Damped: Cummulative Development $$Factor = 1-(C)e^{(-at)}-(1-C)e^{(-bt)}$$
 <div class="verticalhorizontal">
     <img src="https://latex.oncodecogs.com/png.image?LDF_{cumm}=1-(C)e^{(-at)}-(1-C)e^{(-bt)}" alt="centered image" />
-<\div>
+</div>
 
 ### Under Damped: Cummulative Development  $$Factor =  1-(C)sin(at)e^{(-bt)}-cos(at)e^{(-bt)}$$ 
 ### Critically Damped: Cummulative Development $$Factor =  1-(C)te^{(-at)}-e^{(-at)}$$  
