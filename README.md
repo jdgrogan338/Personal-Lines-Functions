@@ -4,6 +4,13 @@
 
 ## Loss Development Model - Damped Harmonic Oscilator
 ### Over Damped: Cummulative Development $$Factor = 1-(C)e^{(-at)}-(1-C)e^{(-bt)}$$ 
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
 <img src="https://latex.oncodecogs.com/png.image?LDF_{cumm}=1-(C)e^{(-at)}-(1-C)e^{(-bt)}" class="center"/>
 
 ### Under Damped: Cummulative Development  $$Factor =  1-(C)sin(at)e^{(-bt)}-cos(at)e^{(-bt)}$$ 
