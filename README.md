@@ -3,10 +3,8 @@
 # Personal Lines Functions
 
 ## Loss Development Model - Damped Harmonic Oscilator
-### Over Damped: Cummulative Development $$Factor = 1-(C)e^{(-at)}-(1-C)e^{(-bt)}$$ 
-<div>
-    <img class="marginauto" src="https://latex.oncodecogs.com/png.image?LDF_{cumm}=1-(C)e^{(-at)}-(1-C)e^{(-bt)}" alt="centered image" />
-</div>
+### Over Damped: Cummulative Development $$Factor = 1-(C)e^{(-at)}-(1-C)e^{(-bt)}$$
+<img align="middle" src="https://latex.oncodecogs.com/png.image?LDF_{cumm}=1-(C)e^{(-at)}-(1-C)e^{(-bt)}" alt="centered image" />
 
 ### Under Damped: Cummulative Development  $$Factor =  1-(C)sin(at)e^{(-bt)}-cos(at)e^{(-bt)}$$ 
 ### Critically Damped: Cummulative Development $$Factor =  1-(C)te^{(-at)}-e^{(-at)}$$  
