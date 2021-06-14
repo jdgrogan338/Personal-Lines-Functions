@@ -4,6 +4,9 @@
 
 ## Loss Development Model - Damped Harmonic Oscilator
 ### Over Damped: Cummulative Development $$Factor = 1-(C)e^{(-at)}-(1-C)e^{(-bt)}$$ 
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 img {
   display: block;
@@ -11,7 +14,16 @@ img {
   margin-right: auto;
 }
 </style>
+</head>
+<body>
+
+<h2>Center an Image</h2>
+<p>To center an image, set left and right margin to auto, and make it into a block element.</p>
+
 <img src="https://latex.oncodecogs.com/png.image?LDF_{cumm}=1-(C)e^{(-at)}-(1-C)e^{(-bt)}" class="center"/>
+
+</body>
+</html>
 
 ### Under Damped: Cummulative Development  $$Factor =  1-(C)sin(at)e^{(-bt)}-cos(at)e^{(-bt)}$$ 
 ### Critically Damped: Cummulative Development $$Factor =  1-(C)te^{(-at)}-e^{(-at)}$$  
