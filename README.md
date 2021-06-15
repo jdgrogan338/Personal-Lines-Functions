@@ -3,14 +3,14 @@ https://codecogs.com/latex/eqneditor.php
 
 # Personal Lines Functions
 
-## Loss Development Model - Damped Harmonic Oscilator
-### Over Damped: Cummulative Development $$Factor = 1-(C)e^{(-at)}-(1-C)e^{(-bt)}$$
+## Loss Development Model - Damped Harmonic Oscilator - Cummulative Development
+### Over Damped: 
 <div align="center"><img src="https://latex.oncodecogs.com/png.image?LDF_{cumm}=1-(C)e^{(-at)}-(1-C)e^{(-bt)}"/></div>
 
-### Under Damped: Cummulative Development  $$Factor =  1-(C)sin(at)e^{(-bt)}-cos(at)e^{(-bt)}$$ 
+### Under Damped: 
 <div align="center"><img src="https://latex.oncodecogs.com/png.image?LDF_{cumm}=1-(C)sin(at)e^{(-bt)}-cos(at)e^{(-bt)}"/></div>
 
-### Critically Damped: Cummulative Development $$Factor =  1-(C)te^{(-at)}-e^{(-at)}$$  
+### Critically Damped: 
 <div align="center"><img src="https://latex.oncodecogs.com/png.image?LDF_{cumm}=1-(C)te^{(-at)}-e^{(-at)}"/></div>
 
 <br>
@@ -18,8 +18,11 @@ https://codecogs.com/latex/eqneditor.php
 <br>
 <br>
 
-## Amount of insurance model factors $$Factor(L) = \frac{(e^{(1-e^{(\frac{-L}{S}))}}-1)}{(e^{(1-e^{(\frac{-L(b)}{S})})}-1)}$$
-## Deductibles by amount of insurance factors $$Factor(D|L) = (\frac{(1-\frac{(e^{(1-e^{(\frac{-D}{S})})}-1)}{(e^{(1-e^{(\frac{-L}{S})})}-1)})}{(1-\frac{(e^{(1-e^{(\frac{-D(b)}{S})})}-1)}{(e^{(1-e^{(\frac{-L(b)}{S})})}-1)})})$$
+## Amount of insurance model factors: 
+<div align="center"><img src="https://latex.oncodecogs.com/png.image?AOI_Factor=\frac{(e^{(1-e^{(\frac{-L}{S}))}}-1)}{(e^{(1-e^{(\frac{-L(b)}{S})})}-1)}"/></div>
+
+## Deductibles by amount of insurance factors: 
+<div align="center"><img src="https://latex.oncodecogs.com/png.image?DED_x_AOI_Factor=(\frac{(1-\frac{(e^{(1-e^{(\frac{-D}{S})})}-1)}{(e^{(1-e^{(\frac{-L}{S})})}-1)})}{(1-\frac{(e^{(1-e^{(\frac{-D(b)}{S})})}-1)}{(e^{(1-e^{(\frac{-L(b)}{S})})}-1)})})"/></div>
 
 <br>
 <br>
