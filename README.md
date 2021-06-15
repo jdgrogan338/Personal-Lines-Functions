@@ -36,7 +36,7 @@
 <div align="center"><img src="https://latex.oncodecogs.com/png.image?ILF=(e^{(1-e^{(\frac{-2L}{S})})}-1)-(e^{(\frac{-L}{S})}-e^{(\frac{-2L}{S})})*(e^{(e^{(\frac{-L}{S})}-e^{(\frac{-2L}{S})})})"/></div>
 
 ### Occurance Limit = 3xClaim Limit ex 100/300:
-<div align="center"><img src="https://latex.codecogs.com/gif.latex?\tiny&space;ILF=(e^{(1-e^{(\frac{-3L}{S})})}-1)-(e^{(\frac{-L}{S})}-e^{(\frac{-3L}{S})})*(e^{(e^{(\frac{-L}{S})}-e^{(\frac{-3L}{S})})})&plus;\frac{1}{2}((e^{(\frac{-L}{S})}-e^{(\frac{-2L}{S})})^2)*(e^{(e^{({-L}{S})}-e^{({-2L}{S})})})" />"/></div>
+<div align="center"><img src="https://latex.codecogs.com/gif.latex?\tiny&space;ILF=(e^{(1-e^{(\frac{-3L}{S})})}-1)-(e^{(\frac{-L}{S})}-e^{(\frac{-3L}{S})})*(e^{(e^{(\frac{-L}{S})}-e^{(\frac{-3L}{S})})})&plus;\frac{1}{2}((e^{(\frac{-L}{S})}-e^{(\frac{-2L}{S})})^2)*(e^{(e^{({-L}{S})}-e^{({-2L}{S})})})" /></div>
 
 <br>
 <br>
