@@ -45,8 +45,8 @@
 
 ## Homeowners Catastrophe Model (aggregate)
 ### Mean of aggregate distribution = mean(f)*mean(s)
-<div align="center"><img src="https://latex.oncodecogs.com/png.image?mean(F)*mean(S)=E(F)*E(S)"/>
-<img src="https://latex.oncodecogs.com/png.image?E(F)*E(S)=\frac{rp}{1-p}(\alpha*AOI)(\Gamma(1+\frac{1}{d}))"/>
+<div align="center"><img src="https://latex.oncodecogs.com/png.image?mean(F)*mean(S)=E(F)*E(S)"/></div>
+<div align="center"><img src="https://latex.oncodecogs.com/png.image?E(F)*E(S)=\frac{rp}{1-p}(\alpha*AOI)(\Gamma(1+\frac{1}{d}))"/>
 </div>
 
 #### Assume: 
