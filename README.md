@@ -7,7 +7,7 @@
 The claims process begins with the occurance of a claim event.  When the event occurs the claimant is displaced from his equilibrium.  To the extent that the claimant is willing and able to make a claim he will return to equilibrium.  To the extent that the claims organization is willing or able, via contract language and processing the company will dampen the return to equilibrium.  This is a damped harmonic oscilator, represented as follows:
 <div align="center"><img src="https://latex.codecogs.com/gif.latex?\frac{d^{2}L(t)}{dt^{2}}&plus;\lambda\frac{dL(t)}{dt}&plus;\omega^2(L(t))=\omega^2(L(\infty))" /></div>
 
-Where <img src="https://latex.codecogs.com/gif.latex?L(t)"> is the loss at time t. <img src="https://latex.codecogs.com/gif.latex?L(\infty)"> is the Ultimate loss.  <img src="https://latex.codecogs.com/gif.latex?\lambda"> and <img src="https://latex.codecogs.com/gif.latex?\infty"> are parameters.  
+Where <img src="https://latex.codecogs.com/gif.latex?L(t)"> is the loss at time t. <img src="https://latex.codecogs.com/gif.latex?L(\infty)"> is the Ultimate loss.  <img src="https://latex.codecogs.com/gif.latex?\lambda"> and <img src="https://latex.codecogs.com/gif.latex?\omega"> are parameters.  
 
 This can be solved 3 ways.  
 ### Over Damped: 
