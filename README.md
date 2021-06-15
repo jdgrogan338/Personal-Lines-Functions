@@ -71,6 +71,8 @@
 #### The following optimizes it and assumes that the rates will be in effect for a year. 
 <div align="center"><img src="https://latex.oncodecogs.com/png.image?Filed-Factor=\frac{(PC)}{(C+(P-C)e^{(-\alpha)})}"/></div> 
 
+Where P is the Modeled Factor, C is the Current Factor and we are solving for <img src = "https://latex.oncodecogs.com/png.image?\alpha" >.  
+
 <br>
 <br>
 <br>
