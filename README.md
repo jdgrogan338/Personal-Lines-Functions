@@ -9,16 +9,19 @@ The claims process begins with the occurrence of a claim event.  When the event 
 
 Where <img src="https://latex.codecogs.com/gif.latex?L(t)"> is the loss at time t. <img src="https://latex.codecogs.com/gif.latex?L(\infty)"> is the Ultimate loss.  <img src="https://latex.codecogs.com/gif.latex?\lambda"> and <img src="https://latex.codecogs.com/gif.latex?\omega"> are parameters.  
 
-This can be solved 3 ways.  
+This can be solved 3 ways.  When we group claim types and analyze them over time, these are the paterns that emerge.  
 ### Over Damped: 
 <div align="center"><img src="https://latex.oncodecogs.com/png.image?LDF_{cumm}=1-(C)e^{(-at)}-(1-C)e^{(-bt)}"/></div>
 
+Bodily injury claims develop this way.  
 ### Under Damped: 
 <div align="center"><img src="https://latex.oncodecogs.com/png.image?LDF_{cumm}=1-(C)sin(at)e^{(-bt)}-cos(at)e^{(-bt)}"/></div>
 
+Underinsured and uninsured motorist coverage with the low frequency and high severity claim types behave this way.  
 ### Critically Damped: 
 <div align="center"><img src="https://latex.oncodecogs.com/png.image?LDF_{cumm}=1-(C)te^{(-at)}-e^{(-at)}"/></div>
 
+Comprehensive and Collision coverage, with the salvage and subrogation behave this way.  
 <br>
 <br>
 <br>
