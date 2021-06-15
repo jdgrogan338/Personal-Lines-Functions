@@ -1,4 +1,4 @@
-###### https://codecogs.com/latex/eqneditor.php
+[comment]: <> (https://codecogs.com/latex/eqneditor.php)
 
 # Personal Lines Functions
 
