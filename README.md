@@ -22,7 +22,7 @@ https://codecogs.com/latex/eqneditor.php
 <div align="center"><img src="https://latex.oncodecogs.com/png.image?AOI-Factor=\frac{(e^{(1-e^{(\frac{-L}{S}))}}-1)}{(e^{(1-e^{(\frac{-L(b)}{S})})}-1)}"/></div>
 
 ## Deductibles by amount of insurance factors: 
-<div align="center"><img src="https://latex.oncodecogs.com/png.image?DED-x-AOI_Factor=(\frac{(1-\frac{(e^{(1-e^{(\frac{-D}{S})})}-1)}{(e^{(1-e^{(\frac{-L}{S})})}-1)})}{(1-\frac{(e^{(1-e^{(\frac{-D(b)}{S})})}-1)}{(e^{(1-e^{(\frac{-L(b)}{S})})}-1)})})"/></div>
+<div align="center"><img src="https://latex.oncodecogs.com/png.image?DED-by-AOI-Factor=(\frac{(1-\frac{(e^{(1-e^{(\frac{-D}{S})})}-1)}{(e^{(1-e^{(\frac{-L}{S})})}-1)})}{(1-\frac{(e^{(1-e^{(\frac{-D_{b}}{S})})}-1)}{(e^{(1-e^{(\frac{-L_{b}}{S})})}-1)})})"/></div>
 
 <br>
 <br>
