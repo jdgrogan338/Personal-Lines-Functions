@@ -6,8 +6,7 @@ https://codecogs.com/latex/eqneditor.php
 ## Loss Development Model - Damped Harmonic Oscilator
 ### Over Damped: Cummulative Development $$Factor = 1-(C)e^{(-at)}-(1-C)e^{(-bt)}$$
 
->   <img src="https://latex.oncodecogs.com/png.image?LDF_{cumm}=1-(C)e^{(-at)}-(1-C)e^{(-bt)}"/>
-<a href="https://www.codecogs.com/eqnedit.php?latex=LDF_{cumm}=1-(C)e^{(-at)}-(1-C)e^{(-bt)}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?LDF_{cumm}=1-(C)e^{(-at)}-(1-C)e^{(-bt)}" title="LDF_{cumm}=1-(C)e^{(-at)}-(1-C)e^{(-bt)}" /></a>
+>   <div class="MathJax_Display" style="text-align: center;"><img src="https://latex.oncodecogs.com/png.image?LDF_{cumm}=1-(C)e^{(-at)}-(1-C)e^{(-bt)}"/>
 
 ### Under Damped: Cummulative Development  $$Factor =  1-(C)sin(at)e^{(-bt)}-cos(at)e^{(-bt)}$$ 
 ### Critically Damped: Cummulative Development $$Factor =  1-(C)te^{(-at)}-e^{(-at)}$$  
@@ -46,7 +45,7 @@ https://codecogs.com/latex/eqneditor.php
 #### The severity follows a weibull distribution - behaves like a fractal. 
 ### Variance of aggregate distribution 
 ###### $$Var(AggDist)= \sum_{n=1}^{\infty} (nE(S^2))+n(n-1)E(S)^2-2nE(S)(E(F)*E(S))+(E(F)*E(S))^2)\binom{r+n-1}{n}p^n(1-p)^r.$$ 
->   <a target="_blank"><img src="https://latex.codecogs.com/gif.latex?\dpi{150}&space;\tiny&space;Var(AggDist)=\sum_{n=1}^{\infty}(nE(S^2)&plus;n(n-1)E(S)^2-2nE(S)(E(F)*E(S))&plus;(E(F)*E(S))^2)\binom{r&plus;n-1}{n}p^n(1-p)^r" /></a>
+>   <img src="https://latex.codecogs.com/gif.latex?\dpi{150}&space;\tiny&space;Var(AggDist)=\sum_{n=1}^{\infty}(nE(S^2)&plus;n(n-1)E(S)^2-2nE(S)(E(F)*E(S))&plus;(E(F)*E(S))^2)\binom{r&plus;n-1}{n}p^n(1-p)^r" />
 #### Where:  
 #### E(S) = Mean of Severity distribution.
 #### E(S^2) = Second Moment of the Severity Distribution about the origin.
