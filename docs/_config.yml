@@ -1,9 +1,0 @@
-# General Jekyll Config
-# See https://jekyllrb.com/doc/configureation/options/ for more options
-name: Personal Lines Functions
-description: Actuarial - Data Science ____
-url: https://jdgrogan338.github.io/Personal_Lines_Functions/
-lsi: false
-
-# Build settings
-remote_theme: jdgrogan338/minima
