@@ -13,21 +13,27 @@ This can be solved 3 ways.  When we group claim types and analyze them over time
 ### Over Damped: 
 <div align="center"><img src="https://latex.oncodecogs.com/png.image?LDF_{cumm}=1-(C)e^{(-at)}-(1-C)e^{(-bt)}"/></div>
 
-Bodily injury claims develop this way.  
+Where a and b are function of <img src="https://latex.oncodecogs.com/png.image?\lambda"/> and <img src="https://latex.oncodecogs.com/png.image?\omega"/>.  Bodily injury claims develop this way.  
+Image of overdamped model.  
+
 ### Under Damped: 
 <div align="center"><img src="https://latex.oncodecogs.com/png.image?LDF_{cumm}=1-(C)sin(at)e^{(-bt)}-cos(at)e^{(-bt)}"/></div>
 
 Underinsured and uninsured motorist coverage with the low frequency and high severity claim types behave this way.  
+Image of Under Damped Model.
+
 ### Critically Damped: 
 <div align="center"><img src="https://latex.oncodecogs.com/png.image?LDF_{cumm}=1-(C)te^{(-at)}-e^{(-at)}"/></div>
 
 Comprehensive and Collision coverage, with the salvage and subrogation behave this way.  
+Image of the Critically Damped Model.  
 <br>
 <br>
 <br>
 <br>
 
 ## Amount of insurance model factors: 
+
 <div align="center"><img src="https://latex.oncodecogs.com/png.image?AOI-Factor=\frac{(e^{(1-e^{(\frac{-L}{S}))}}-1)}{(e^{(1-e^{(\frac{-L_b}{S})})}-1)}"/></div>
 
 ## Deductibles by amount of insurance factors: 
