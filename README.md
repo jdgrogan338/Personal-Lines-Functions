@@ -29,7 +29,7 @@ Underinsured and uninsured motorist coverage with the low frequency and high sev
 
 Comprehensive and Collision coverage, with the salvage and subrogation behave this way.
 
-![Critically Damped](images/underdamped.png)
+![Critically Damped](images/criticallydamped.png)
 <br>
 <br>
 <br>
