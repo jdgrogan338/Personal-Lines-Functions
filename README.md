@@ -15,21 +15,21 @@ This can be solved 3 ways.  When we group claim types and analyze them over time
 
 Where a and b are function of <img src="https://latex.oncodecogs.com/png.image?\lambda"/> and <img src="https://latex.oncodecogs.com/png.image?\omega"/>.  Bodily injury claims develop this way.  
 
-[comment]: <> (Image of overdamped model. ) 
+![Over Damped](images/overdamped.png) 
 
 ### Under Damped: 
 <div align="center"><img src="https://latex.oncodecogs.com/png.image?LDF_{cumm}=1-(C)sin(at)e^{(-bt)}-cos(at)e^{(-bt)}"/></div>
 
 Underinsured and uninsured motorist coverage with the low frequency and high severity claim types behave this way.  
 
-[comment]: <> (Image of Under Damped Model.)
+![Under Damped](images/underdamped.png)
 
 ### Critically Damped: 
 <div align="center"><img src="https://latex.oncodecogs.com/png.image?LDF_{cumm}=1-(C)te^{(-at)}-e^{(-at)}"/></div>
 
 Comprehensive and Collision coverage, with the salvage and subrogation behave this way.
 
-[comment]: <> (Image of the Critically Damped Model.  )
+![Critically Damped](images/underdamped.png)
 <br>
 <br>
 <br>
