@@ -18,14 +18,14 @@ Where a and b are function of <img src="https://latex.oncodecogs.com/png.image?\
 ![Over Damped](images/overdamped.png) 
 
 ### Under Damped: 
-<div align="center"><img src="https://latex.oncodecogs.com/png.image?LDF_{cumm}=1-(C)sin(at)e^{(-bt)}-cos(at)e^{(-bt)}"/></div>
+<div align="center"><img src="https://latex.oncodecogs.com/png.image?LDF_{cumm}=1+(C)sin(at)e^{(-bt)}-cos(at)e^{(-bt)}"/></div>
 
 Underinsured and uninsured motorist coverage with the low frequency and high severity claim types behave this way.  
 
 ![Under Damped](images/underdamped.png)
 
 ### Critically Damped: 
-<div align="center"><img src="https://latex.oncodecogs.com/png.image?LDF_{cumm}=1-(C)te^{(-at)}-e^{(-at)}"/></div>
+<div align="center"><img src="https://latex.oncodecogs.com/png.image?LDF_{cumm}=1+(C)te^{(-at)}-e^{(-at)}"/></div>
 
 Comprehensive and Collision coverage, with the salvage and subrogation behave this way.
 
