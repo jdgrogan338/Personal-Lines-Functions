@@ -1,6 +1,5 @@
-[comment]: <> (https://codecogs.com/latex/eqneditor.php)
-
 # Limit Rating Factors
+[comment]: <> (https://codecogs.com/latex/eqneditor.php)
 
 __Circumstances__
 

@@ -1,7 +1,9 @@
+# Loss Development Model
+## Damped Harmonic Oscillator - Cummulative Development
 [comment]: <> (https://codecogs.com/latex/eqneditor.php)
 
-# Loss Development Model - Damped Harmonic Oscillator - Cummulative Development
 __Circumstances__
+
 In order to speed up processing during the quarterly ratemaking process, I needed to have the machine process as much of the analysis as possible.  This would give me more time to evaluate the performance measures.  I let the machine process, and I would perform the reasonability check.  When this was in full use, it changed my total processing time from a day and half to about 10 minutes.  
 
 __Derivation__
