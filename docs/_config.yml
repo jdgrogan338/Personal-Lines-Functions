@@ -10,5 +10,5 @@ commonmark:
 lsi: false
 
 # Build Settings
-theme: minima
+theme: jekyll-theme-minima
 # remote_theme: pages-themes/PrimeR

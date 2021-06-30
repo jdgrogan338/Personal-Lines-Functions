@@ -1,6 +1,9 @@
 # Loss Development Model
 ## Damped Harmonic Oscillator - Cummulative Development
-[comment]: <> (https://codecogs.com/latex/eqneditor.php)
+<!---
+Comment:
+https://codecogs.com/latex/eqneditor.php
+--->
 
 __Circumstances__
 
