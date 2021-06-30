@@ -38,4 +38,4 @@ When the expected limited loss above is divided by the limited expected loss at 
 
 <div align="center"><img src="https://latex.codecogs.com/gif.latex?factor&space;=&space;\frac{(1-e^{-L/S})}{(1-e^{-L_{B}/S})}" /></div>
 
-At this point, if I calculate the severity S as the average of the 60 claim experience data, the limit factors can be calculated straight forward.  This is the base for the other limit functions developed in this repository.  
+At this point, if I calculate the severity S as the average of the 60 claim experience data, the limit factors can be calculated straight forward.  This is the base for the other limit functions developed in this repository.  In addition, think of S as a hyperparameter which can be used to optimize the function.  This will be handy when inserting into a generalized linear model.  

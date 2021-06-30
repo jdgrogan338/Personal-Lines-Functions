@@ -2,7 +2,7 @@
 # See https://jekyllrb.com/docs/configuration/options/ for more options
 name: Personal Lines Funtions
 description: Data Science - Repo for ______
-url: https://...
+url: https://jdgrogan338.github.io/Personal_Lines_Functions/
 markdown: CommonMarkGhPages
 commonmark:
   options: ["SMART", "FOOTNOTES"]
