@@ -10,7 +10,7 @@ commonmark:
 lsi: false
 
 # Build Settings
-theme: architect
+theme: minima
 # remote_theme: pages-themes/PrimeR
 # Architect
 # Cayman
