@@ -1,3 +1,4 @@
+# Other
 
 ## Increased Limits Model
 ### Occurance Limit = Claim Limit ex 500/500 or 500CSL:
