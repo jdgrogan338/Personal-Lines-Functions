@@ -10,4 +10,4 @@ commonmark:
 lsi: false
 
 # Build Settings
-remote_theme: jdgrogan338/Personal_lines_functions
+remote_theme: pages-themes/PrimeR
