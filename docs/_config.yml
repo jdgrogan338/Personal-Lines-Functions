@@ -10,4 +10,5 @@ commonmark:
 lsi: false
 
 # Build Settings
-remote_theme: pages-themes/PrimeR
+theme: minima
+# remote_theme: pages-themes/PrimeR
