@@ -9,7 +9,7 @@ __Derivation__
 We begin with the assumptions and derivation of the limit factor model.  Then we will extend it to a system where multiple claims may occur limited by L.  This would be similar to a multicar pile up.  
 
 The first step is to consider one claim.  This will behave linearly and will look like the limit factor model:
-<div align="center"><img src="https://latex.codecogs.com/gif.latex?\F(L)&space;=&space;F_{0}S(1-e^{-L/S})" /></div>
+<div align="center"><img src="https://latex.codecogs.com/gif.latex?F(L)=F_{0}S(1-e^{-L/S})" /></div>
 
 Not too mysterious, we've seen this before.  If we continue to a two claim system.  Let look at this graphically:
 
