@@ -1,19 +1,5 @@
 # Other
 
-## Increased Limits Model
-### Occurance Limit = Claim Limit ex 500/500 or 500CSL:
-<div align="center"><img src="https://latex.oncodecogs.com/png.image?ILF=e^{(1-e^{(\frac{-L}{S})})}-1"/></div>
-
-### Occurance Limit = 2xClaim Limit ex 250/500:
-<div align="center"><img src="https://latex.oncodecogs.com/png.image?ILF=(e^{(1-e^{(\frac{-2L}{S})})}-1)-(e^{(\frac{-L}{S})}-e^{(\frac{-2L}{S})})*(e^{(e^{(\frac{-L}{S})}-e^{(\frac{-2L}{S})})})"/></div>
-
-### Occurance Limit = 3xClaim Limit ex 100/300:
-<div align="center"><img src="https://latex.codecogs.com/gif.latex?\tiny&space;ILF=(e^{(1-e^{(\frac{-3L}{S})})}-1)-(e^{(\frac{-L}{S})}-e^{(\frac{-3L}{S})})*(e^{(e^{(\frac{-L}{S})}-e^{(\frac{-3L}{S})})})&plus;\frac{1}{2}((e^{(\frac{-L}{S})}-e^{(\frac{-2L}{S})})^2)*(e^{(e^{({-L}{S})}-e^{({-2L}{S})})})" /></div>
-
-<br>
-<br>
-<br>
-<br>
 
 ## Homeowners Catastrophe Model (aggregate)
 ### Mean of aggregate distribution = mean(f)*mean(s)

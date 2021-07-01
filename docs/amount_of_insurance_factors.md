@@ -2,9 +2,11 @@
 
 __Circumstances__
 
-It was difficult in my generalized linear model to adequately represent the Homeowners Factors.  I needed a smooth transition from level to level, but my attempts at curve fitting yielded inadequate results.  Because there was sparse data in the lower limits, curve fitting attempts were not providing the business with adequate rates at the lower limits.  
+It was difficult in my generalized linear model to adequately represent the Homeowners Factors.  I needed a smooth transition from level to level in order to maintain control of my correlated variables like deductible, but my attempts at curve fitting yielded inadequate results.  Because there was sparse data in the lower limits, curve fitting attempts were not providing the business with adequate rates at the lower limits.  
 
 __Derivation__
+
+We begin with the assumptions and derivation of the limit factor model.  
 
 <div align="center"><img src="https://latex.oncodecogs.com/png.image?AOI-Factor=\frac{(e^{(1-e^{(\frac{-L}{S}))}}-1)}{(e^{(1-e^{(\frac{-L_b}{S})})}-1)}"/></div>
 
