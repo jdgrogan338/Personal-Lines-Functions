@@ -1,3 +1,5 @@
 I compiled this repository to hold a set of functions I derived to use for Personal Lines Insurance Data Science.  It is a work in progress, but it will contain the list, the circumstances that drove me to develop the functions, and the derivation of each function.  
 
 Eventually, I will include the code snippets that demonstrate it's use in deeper analysis.  
+
+These derivations are based on the idea that every economic system is a system moving toward equilibrium.  If this is true, then thermodynamic, electrodynamics, harmonics, fluid dynamics are all models that can be applied.  Fundamentally, there is no difference between a system of particals contained in a volume in thermal contact with a heat reservoir at a given temperature and a cohort of policy holders on a book of business in contact with an economic cycle.  The math is the same.  

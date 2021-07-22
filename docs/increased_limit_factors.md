@@ -42,3 +42,4 @@ When the expected limited loss above is divided by the limited expected loss at 
 
 What else can we learn from this model?  
 1. If the model is correct, could we introduce more limit combinations (e.g. Occurance = 4xClaim)?
+2. How do we transform this and use it in a multivariate?

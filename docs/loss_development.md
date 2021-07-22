@@ -3,6 +3,7 @@
 <!---
 Comment:
 https://codecogs.com/latex/eqneditor.php
+about.gitlab.com/handbook/markdown-guide/
 --->
 
 __Circumstances__
