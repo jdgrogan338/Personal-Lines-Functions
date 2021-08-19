@@ -40,6 +40,6 @@ Comprehensive and Collision coverage, with the salvage and subrogation behave th
 ![Critically Damped](images/criticallydamped.png)
 
 What else can we learn from this model?  
-1. Proof:  How do we prove that this is actually the pattern of claim follow?
+1. Proof:  How do we prove that this is actually the pattern that claim follow?
 2. How should we interpret the parameters a and b?
 3. Can it be used to analyze claims at the claim level?
