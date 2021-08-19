@@ -2,7 +2,7 @@
 
 __Circumstances__
 
-It was difficult in my generalized linear model to adequately represent the auto Factors.  I didn't understand the behavior of the risk.  By this, I mean, I didn't know how one split limit should be rated relative to another split limit in theory.  I needed a smooth transition from level to level in order to maintain control of my correlated variables like age and credit, but my attempts at curve fitting yielded erroneous results.  In general, I had two mass point 100/300 and 250/500, and all other levels were sparse.  If could figure out a way to convert the limit to a number, according to a solid theory, then I could leverage the two mass points to govern the shape of the entire rating plan.  
+It was difficult in my generalized linear model to adequately represent the auto limit Factors.  I didn't understand the behavior of the risk.  By this, I mean, I didn't know how one split limit should be rated relative to another split limit in theory.  I needed a smooth transition from level to level in order to maintain control of my correlated variables like age and credit, but my attempts at curve fitting yielded erroneous results.  In general, I had two mass points 100/300 and 250/500, and all other levels were sparse.  If could figure out a way to convert the limit to a number, according to a solid theory, then I could leverage the two mass points to govern the shape of the entire rating plan.  
 
 __Derivation__
 
