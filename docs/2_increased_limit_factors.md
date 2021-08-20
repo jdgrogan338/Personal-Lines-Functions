@@ -15,7 +15,7 @@ Not too mysterious, we've seen this before.  If we continue to a two claim syste
 
 ![Two Claim System](images/two_claim_system.png)
 
-As you can see, the two claim system is limited.  If claim1 is L1 then claim2 is the occurence limit (L) less L1.  The area is:
+As you can see, the two claim system is limited.  If claim1 is L1, then claim2 is the occurence limit (L) less L1.  The area is:
 
 <div align="center"><img src="https://latex.codecogs.com/gif.latex?F(L)=\frac{1}{2}(F_{0}S(1-e^{-L/S}))^2" /></div>
 
@@ -23,7 +23,7 @@ Let's look at the 3 claim system.
 
 ![Three Claim System](images/three_claim_system.png)
 
-Now, the three claim system is limited.  If claim1 is L1 and claim2 is L2 then claim3 is the occurence limit (L) less L1 and L2.  The volume is:
+Now, the three claim system is limited.  If claim1 is L1 and claim2 is L2, then claim3 is the occurence limit (L) less L1 and L2.  The volume is:
 
 <div align="center"><img src="https://latex.codecogs.com/gif.latex?F(L)=\frac{1}{6}(F_{0}S(1-e^{-L/S}))^3" title="F(L)=\frac{1}{6}(F_{0}S(1-e^{-L/S}))^3" /></div>
 
