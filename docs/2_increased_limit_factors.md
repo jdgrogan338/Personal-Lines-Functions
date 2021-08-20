@@ -11,7 +11,7 @@ We begin with the assumptions and derivation of the limit factor model.  Then we
 The first step is to consider one claim.  This will behave linearly and will look like the limit factor model:
 <div align="center"><img src="https://latex.codecogs.com/gif.latex?F(L)=F_{0}S(1-e^{-L/S})" /></div>
 
-Not too mysterious, we've seen this before.  If we continue to a two claim system.  Let look at this graphically:
+Not too mysterious, we've seen this before.  If we continue to a two claim system, and look at this graphically we get:
 
 ![Two Claim System](images/two_claim_system.png)
 
