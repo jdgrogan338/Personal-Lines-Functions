@@ -43,7 +43,7 @@ Add one and subtract one:
 <div align="center"><img src="https://latex.codecogs.com/svg.image?e^{(FS(1-e^{-L/S}))}-1&plus;1-e^{(FS(1-e^{-D/S}))}" title="e^{(FS(1-e^{-L/S}))}-1+1-e^{(FS(1-e^{-D/S}))}" /></div>
 
 If we pull out the limit portion:
-v align="center"><img src="https://latex.codecogs.com/svg.image?(e^{(FS(1-e^{-L/S}))}-1)(1-(e^{(FS(1-e^{-D/S}))}-1)/(e^{(FS(1-e^{-L/S}))}-1))"  /></div>
+<div align="center"><img src="https://latex.codecogs.com/svg.image?(e^{(FS(1-e^{-L/S}))}-1)(1-(e^{(FS(1-e^{-D/S}))}-1)/(e^{(FS(1-e^{-L/S}))}-1))"  /></div>
 
 Now when I divide by the base limit/base deductible combination then cut away the AOI factor portion:
 <div align="center"><img src="https://latex.oncodecogs.com/png.image?DED-by-AOI-Factor=(\frac{(1-\frac{(e^{(1-e^{(\frac{-D}{S})})}-1)}{(e^{(1-e^{(\frac{-L}{S})})}-1)})}{(1-\frac{(e^{(1-e^{(\frac{-D_b}{S})})}-1)}{(e^{(1-e^{(\frac{-L_b}{S})})}-1)})})"/></div>
