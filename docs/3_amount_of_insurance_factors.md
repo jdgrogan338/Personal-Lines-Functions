@@ -30,10 +30,21 @@ Now, the three claim system is limited.  If claim1 is L1 and claim2 is L2, then 
 There is no way to display a 4 dimensional claim system, but a pattern is starting to emerge.  If we add all outcomes in this series from 1 claim to infinity, we yield the following common scenarios:
 
 ### Amount of Insurance Factor = 
-<div align="center"><img src="https://latex.oncodecogs.com/png.image?AOI-Factor=\frac{(e^{(1-e^{(\frac{-L}{S}))}}-1)}{(e^{(1-e^{(\frac{-L_b}{S})})}-1)}"/></div>
+<div align="center"><img src="https://latex.oncodecogs.com/png.image?AOI-Factor=\frac{(e^{F_{0}S(1-e^{(\frac{-L}{S}))}}-1)}{(e^{F_{0}S(1-e^{(\frac{-L_b}{S})})}-1)}"/></div>
 
 
 
-## Deductibles by amount of insurance factors: 
+### Deductibles by amount of insurance factors: 
+Assuming that the deductible applies, then we are not integrating from zero.  We are integrating from the deductible D to the limit L.  This looks like the following:
+
+<div align="center"><img src="https://latex.codecogs.com/svg.image?e^{(FS(1-e^{-L/S}))}-e^{(FS(1-e^{-D/S}))}" title="e^{(FS(1-e^{-L/S}))}-e^{(FS(1-e^{-D/S}))}" /></div>
+
+Add one and subtract one:
+<div align="center"><img src="https://latex.codecogs.com/svg.image?e^{(FS(1-e^{-L/S}))}-1&plus;1-e^{(FS(1-e^{-D/S}))}" title="e^{(FS(1-e^{-L/S}))}-1+1-e^{(FS(1-e^{-D/S}))}" /></div>
+
+If we pull out the limit portion:
+v align="center"><img src="https://latex.codecogs.com/svg.image?(e^{(FS(1-e^{-L/S}))}-1)(1-(e^{(FS(1-e^{-D/S}))}-1)/(e^{(FS(1-e^{-L/S}))}-1))"  /></div>
+
+Now when I divide by the base limit/base deductible combination then cut away the AOI factor portion:
 <div align="center"><img src="https://latex.oncodecogs.com/png.image?DED-by-AOI-Factor=(\frac{(1-\frac{(e^{(1-e^{(\frac{-D}{S})})}-1)}{(e^{(1-e^{(\frac{-L}{S})})}-1)})}{(1-\frac{(e^{(1-e^{(\frac{-D_b}{S})})}-1)}{(e^{(1-e^{(\frac{-L_b}{S})})}-1)})})"/></div>
 
