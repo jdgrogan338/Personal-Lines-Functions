@@ -45,6 +45,6 @@ Add one and subtract one:
 If we pull out the limit portion:
 <div align="center"><img src="https://latex.codecogs.com/svg.image?(e^{(FS(1-e^{-L/S}))}-1)(1-(e^{(FS(1-e^{-D/S}))}-1)/(e^{(FS(1-e^{-L/S}))}-1))"  /></div>
 
-Now when I divide by the base limit/base deductible combination then cut away the AOI factor portion:
+Now when I divide by the base limit/base deductible combination then cut away the AOI factor portion, the we are left with the deductible by amount of insurance factor as follows:
 <div align="center"><img src="https://latex.oncodecogs.com/png.image?DED-by-AOI-Factor=(\frac{(1-\frac{(e^{(1-e^{(\frac{-D}{S})})}-1)}{(e^{(1-e^{(\frac{-L}{S})})}-1)})}{(1-\frac{(e^{(1-e^{(\frac{-D_b}{S})})}-1)}{(e^{(1-e^{(\frac{-L_b}{S})})}-1)})})"/></div>
 
