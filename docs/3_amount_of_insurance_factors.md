@@ -27,7 +27,7 @@ Now, the three claim system is limited.  If claim1 is L1 and claim2 is L2, then 
 
 <div align="center"><img src="https://latex.codecogs.com/gif.latex?F(L)=\frac{1}{6}(F_{0}S(1-e^{-L/S}))^3" title="F(L)=\frac{1}{6}(F_{0}S(1-e^{-L/S}))^3" /></div>
 
-There is no way to display a 4 dimensional claim system, but a pattern is starting to emerge.  If we add all outcomes in this series from 1 claim to infinity, we yield the following common scenarios:
+There is no way to display a 4 dimensional claim system, but a pattern is starting to emerge.  If we add all outcomes in this series from 1 claim to infinity, we yield the following:
 
 ### Amount of Insurance Factor = 
 <div align="center"><img src="https://latex.oncodecogs.com/png.image?AOI-Factor=\frac{(e^{F_{0}S(1-e^{(\frac{-L}{S}))}}-1)}{(e^{F_{0}S(1-e^{(\frac{-L_b}{S})})}-1)}"/></div>
