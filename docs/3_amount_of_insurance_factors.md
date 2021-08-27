@@ -35,7 +35,7 @@ There is no way to display a 4 dimensional claim system, but a pattern is starti
 
 
 ### Deductibles by amount of insurance factors: 
-Assuming that the deductible applies, then we the limited expected loss at L less the limited expected loss at D.  This looks like the following:
+Assuming that the deductible applies, then the loss we expect is the limited expected loss at L less the limited expected loss at D.  This looks like the following:
 
 <div align="center"><img src="https://latex.codecogs.com/svg.image?(e^{(F_{0}S(1-e^{-L/S}))}-1)-(e^{(F_{0}S(1-e^{-D/S}))}-1)"  /></div>
 
