@@ -23,22 +23,6 @@ Let's look at the 3 claim system.
 
 ![Three Claim System](images/three_claim_system.png)
 
-<!---
-Comment:
-[1] [Three Claim System](assets/pythonrendering.ipynb)
-code to create link
---->
-
-<!---
-Comment:
-## Table of Contents
-
-* [Overview](#overview)
-
-## Overview
-code to create link
---->
-
 Now, the three claim system is limited.  If claim1 is L1 and claim2 is L2, then claim3 is the occurence limit (L) less L1 and L2.  The volume is:
 
 <div align="center"><img src="https://latex.codecogs.com/gif.latex?F(L)=\frac{1}{6}(F_{0}S(1-e^{-L/S}))^3" title="F(L)=\frac{1}{6}(F_{0}S(1-e^{-L/S}))^3" /></div>
