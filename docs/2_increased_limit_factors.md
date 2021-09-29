@@ -23,7 +23,11 @@ Let's look at the 3 claim system.
 
 ![Three Claim System](images/three_claim_system.png)
 
+<!---
+Comment:
 [1] [Three Claim System](assets/pythonrendering.ipynb)
+code to create link
+--->
 
 Now, the three claim system is limited.  If claim1 is L1 and claim2 is L2, then claim3 is the occurence limit (L) less L1 and L2.  The volume is:
 
