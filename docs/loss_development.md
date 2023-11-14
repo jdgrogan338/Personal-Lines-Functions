@@ -19,21 +19,21 @@ Where <img src="https://latex.codecogs.com/gif.latex?L(t)"> is the loss at time 
 
 This can be solved 3 ways.  When we group claim types and analyze them over time, these are the paterns that emerge.  
 ### Over Damped: 
-<div align="center"><img src="https://latex.oncodecogs.com/png.image?LDF_{cumm}=1-(C)e^{(-at)}-(1-C)e^{(-bt)}"/></div>
+<div align="center"><img src="https://latex.codecogs.com/gif.image?LDF_{cumm}=1-(C)e^{(-at)}-(1-C)e^{(-bt)}"/></div>
 
-Where a and b are function of <img src="https://latex.oncodecogs.com/png.image?\lambda"/> and <img src="https://latex.oncodecogs.com/png.image?\omega"/>.  Bodily injury claims develop this way.  
+Where a and b are function of <img src="https://latex.codecogs.com/gif.image?\lambda"/> and <img src="https://latex.codecogs.com/gif.image?\omega"/>.  Bodily injury claims develop this way.  
 
 ![Over Damped](images/overdamped.png) 
 
 ### Under Damped: 
-<div align="center"><img src="https://latex.oncodecogs.com/png.image?LDF_{cumm}=1+(C)sin(at)e^{(-bt)}-cos(at)e^{(-bt)}"/></div>
+<div align="center"><img src="https://latex.codecogs.com/gif.image?LDF_{cumm}=1+(C)sin(at)e^{(-bt)}-cos(at)e^{(-bt)}"/></div>
 
 Underinsured and uninsured motorist coverage with the low frequency and high severity claim types behave this way.  
 
 ![Under Damped](images/underdamped.png)
 
 ### Critically Damped: 
-<div align="center"><img src="https://latex.oncodecogs.com/png.image?LDF_{cumm}=1+(C)te^{(-at)}-e^{(-at)}"/></div>
+<div align="center"><img src="https://latex.codecogs.com/gif.image?LDF_{cumm}=1+(C)te^{(-at)}-e^{(-at)}"/></div>
 
 Comprehensive and Collision coverage, with the salvage and subrogation behave this way.
 

@@ -30,10 +30,10 @@ Now, the three claim system is limited.  If claim1 is L1 and claim2 is L2, then 
 There is no way to display a 4 dimensional claim system, but a pattern is starting to emerge.  If we add all outcomes in this series from 1 claim to infinity, we yield the following common scenarios:
 
 ### Occurance Limit = Claim Limit ex 500/500 or 500CSL:
-<div align="center"><img src="https://latex.codecogs.com/png.image?F(L)=e^{F_{0}S(1-e^{(\frac{-L}{S})})}-1"/></div>
+<div align="center"><img src="https://latex.codecogs.com/gif.image?F(L)=e^{F_{0}S(1-e^{(\frac{-L}{S})})}-1"/></div>
 
 ### Occurance Limit = 2xClaim Limit ex 250/500:
-<div align="center"><img src="https://latex.codecogs.com/png.image?F(L)=(e^{F_{0}S(1-e^{(\frac{-2L}{S})})}-1)-(e^{(\frac{-L}{S})}-e^{(\frac{-2L}{S})})*(e^{F_{0}S(e^{(\frac{-L}{S})}-e^{(\frac{-2L}{S})})})"/></div>
+<div align="center"><img src="https://latex.codecogs.com/gif.image?F(L)=(e^{F_{0}S(1-e^{(\frac{-2L}{S})})}-1)-(e^{(\frac{-L}{S})}-e^{(\frac{-2L}{S})})*(e^{F_{0}S(e^{(\frac{-L}{S})}-e^{(\frac{-2L}{S})})})"/></div>
 
 ### Occurance Limit = 3xClaim Limit ex 100/300:
 <div align="center"><img src="https://latex.codecogs.com/gif.latex?\tiny&space;F(L)=(e^{F_{0}S(1-e^{(\frac{-3L}{S})})}-1)-(e^{(\frac{-L}{S})}-e^{(\frac{-3L}{S})})*(e^{F_{0}S(e^{(\frac{-L}{S})}-e^{(\frac{-3L}{S})})})&plus;\frac{1}{2}((e^{(\frac{-L}{S})}-e^{(\frac{-2L}{S})})^2)*(e^{F_{0}S(e^{({-L}{S})}-e^{({-2L}{S})})})" /></div>
